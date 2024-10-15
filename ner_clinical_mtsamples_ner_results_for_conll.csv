@@ -1,0 +1,806 @@
+text_id,begin,end,chunk,entity
+0,88,99,Mesothelioma,PROBLEM
+0,118,129,Mesothelioma,PROBLEM
+0,132,147,pleural effusion,PROBLEM
+0,150,168,atrial fibrillation,PROBLEM
+0,171,176,anemia,PROBLEM
+0,179,185,ascites,PROBLEM
+0,188,204,esophageal reflux,PROBLEM
+0,222,243,deep venous thrombosis,PROBLEM
+0,305,316,Mesothelioma,PROBLEM
+0,340,355,Pleural effusion,PROBLEM
+0,358,376,atrial fibrillation,PROBLEM
+0,379,384,anemia,PROBLEM
+0,387,393,ascites,PROBLEM
+0,396,412,esophageal reflux,PROBLEM
+0,430,451,deep venous thrombosis,PROBLEM
+0,488,512,decortication of the lung,TREATMENT
+0,519,532,pleural biopsy,TEST
+0,538,561,transpleural fluoroscopy,TEST
+0,587,599,thoracentesis,TREATMENT
+0,625,645,Port-A-Cath placement,TREATMENT
+0,722,742,a nonproductive cough,PROBLEM
+0,780,801,right-sided chest pain,PROBLEM
+0,830,834,fever,PROBLEM
+0,877,888,pericarditis,PROBLEM
+0,894,907,pericardectomy,TREATMENT
+0,935,939,cough,PROBLEM
+0,946,967,right-sided chest pain,PROBLEM
+0,1005,1015,Chest x-ray,TEST
+0,1026,1053,right-sided pleural effusion,PROBLEM
+0,1080,1093,Pericardectomy,TREATMENT
+0,1099,1110,Pericarditis,PROBLEM
+0,1116,1134,Atrial fibrillation,PROBLEM
+0,1150,1184,intracranial thrombolytic treatment,TREATMENT
+0,1204,1231,Mesenteric venous thrombosis,PROBLEM
+0,1237,1254,Pericardial window,TREATMENT
+0,1260,1274,Cholecystectomy,TREATMENT
+0,1280,1297,Left thoracentesis,TEST
+0,1337,1359,coronary artery disease,PROBLEM
+0,1362,1364,CVA,PROBLEM
+0,1367,1374,diabetes,PROBLEM
+0,1377,1379,CHF,PROBLEM
+0,1384,1385,MI,PROBLEM
+0,1449,1454,cancer,PROBLEM
+0,1609,1616,Coumadin,TREATMENT
+0,1635,1637,INR,TEST
+0,1676,1682,her INR,TEST
+0,1696,1705,Amiodarone,TREATMENT
+0,1764,1770,systems,TEST
+0,1845,1863,occasional numbness,PROBLEM
+0,1869,1892,tingling of her left arm,PROBLEM
+0,1929,1942,Blood pressure,TEST
+0,1952,1961,heart rate,TEST
+0,1967,1978,respirations,TEST
+0,1984,1994,temperature,TEST
+0,2004,2020,oxygen saturation,TEST
+0,2045,2063,nonproductive cough,PROBLEM
+0,2069,2072,pain,PROBLEM
+0,2079,2086,coughing,PROBLEM
+0,2201,2215,lymphadenopathy,PROBLEM
+0,2221,2226,masses,PROBLEM
+0,2242,2261,Pleural friction rub,PROBLEM
+0,2283,2294,nondistended,PROBLEM
+0,2301,2309,nontender,PROBLEM
+0,2338,2349,organomegaly,PROBLEM
+0,2368,2372,edema,PROBLEM
+0,2378,2385,clubbing,PROBLEM
+0,2391,2398,cyanosis,PROBLEM
+0,2404,2413,tenderness,PROBLEM
+0,2481,2489,breakdown,PROBLEM
+0,2494,2500,lesions,PROBLEM
+0,2506,2511,ulcers,PROBLEM
+0,2545,2558,focal deficits,PROBLEM
+0,2633,2636,Labs,TEST
+0,2697,2726,a right-sided pleural effusion,PROBLEM
+0,2732,2744,thoracentesis,TREATMENT
+0,2766,2777,Her Coumadin,TREATMENT
+0,2799,2821,A repeat echocardiogram,TEST
+0,2855,2865,prophylaxis,TREATMENT
+0,2871,2873,DVT,PROBLEM
+0,2880,2886,Lovenox,TREATMENT
+0,3003,3014,pericarditis,PROBLEM
+0,3040,3057,pericardial window,TREATMENT
+0,3123,3137,mesenteric pain,PROBLEM
+0,3143,3152,thrombosis,PROBLEM
+0,3162,3175,anticoagulated,TREATMENT
+0,3281,3294,pericardectomy,TREATMENT
+0,3337,3347,her CT scan,TEST
+0,3374,3391,her pericardectomy,TREATMENT
+0,3408,3433,bilateral plural effusions,PROBLEM
+0,3474,3491,the pericardectomy,TREATMENT
+0,3512,3523,her symptoms,PROBLEM
+0,3576,3585,chest pain,PROBLEM
+0,3605,3630,bilateral pleural effusion,PROBLEM
+0,3666,3680,CT of the chest,TEST
+0,3696,3725,a large mediastinal lymph node,PROBLEM
+0,3740,3752,the pathology,TEST
+0,3768,3785,the pericardectomy,TREATMENT
+0,3826,3837,mesothelioma,PROBLEM
+0,3854,3873,chest tube placement,TREATMENT
+0,3879,3899,drainage of the fluid,PROBLEM
+0,3914,3925,thoracoscopy,TREATMENT
+0,3932,3945,fluid biopsies,TEST
+0,3985,4018,epithelioid malignant mesothelioma,PROBLEM
+0,4055,4062,a PET CT,TEST
+0,4078,4106,extensive uptake in the chest,PROBLEM
+0,4109,4147,bilateral pleural pericardial effusions,PROBLEM
+0,4154,4168,lymphadenopathy,PROBLEM
+0,4184,4195,acidic fluid,PROBLEM
+0,4198,4234,pectoral and intramammary lymph nodes,PROBLEM
+0,4240,4251,uptake in L4,PROBLEM
+0,4258,4260,SUV,TEST
+0,4293,4309,stage III disease,PROBLEM
+0,4312,4336,Her repeat echocardiogram,TEST
+0,4345,4364,an ejection fraction,TEST
+0,4436,4447,chemotherapy,TREATMENT
+0,4475,4483,cisplatin,TREATMENT
+0,4526,4537,IV piggyback,TREATMENT
+0,4574,4579,Alimta,TREATMENT
+0,4624,4635,IV piggyback,TREATMENT
+0,4683,4695,a Port-A-Cath,TREATMENT
+0,4709,4724,The chemotherapy,TREATMENT
+0,4814,4821,IV fluid,TREATMENT
+0,4827,4828,IV,TREATMENT
+0,4831,4845,Her Port-A-Cath,TREATMENT
+0,4863,4869,heparin,TREATMENT
+0,4917,4922,Zofran,TREATMENT
+0,4925,4933,Phenergan,TREATMENT
+0,4936,4943,Coumadin,TREATMENT
+0,4950,4956,Lovenox,TREATMENT
+0,4963,4992,"Vicodin
+DISCHARGE INSTRUCTIONS",TREATMENT
+0,5062,5068,her INR,TEST
+0,5201,5212,mesothelioma,PROBLEM
+0,5215,5230,pleural effusion,PROBLEM
+0,5233,5251,atrial fibrillation,PROBLEM
+0,5254,5259,anemia,PROBLEM
+0,5262,5268,ascites,PROBLEM
+0,5271,5287,esophageal reflux,PROBLEM
+0,5290,5311,deep venous thrombosis,PROBLEM
+0,5314,5334,port-a-cath placement,TREATMENT
+0,5337,5347,port a cath,TREATMENT
+0,5350,5361,iv piggyback,TREATMENT
+0,5364,5380,venous thrombosis,PROBLEM
+0,5383,5388,atrial,PROBLEM
+0,5391,5400,thrombosis,PROBLEM
+0,5403,5413,pericardial,TREATMENT
+0,5416,5430,lymphadenopathy,PROBLEM
+0,5433,5437,fluid,PROBLEM
+0,5440,5453,pericardectomy,TREATMENT
+0,5456,5469,"chest, pleural",PROBLEM
+1,68,104,"BCCa Excision - Lower Lid
+Description",TREATMENT
+1,107,114,Excision,TREATMENT
+1,119,144,large basal cell carcinoma,PROBLEM
+1,187,227,dorsal conjunctival flap in the upper lid,TREATMENT
+1,233,263,a large preauricular skin graft,TREATMENT
+1,328,363,Extremely large basal cell carcinoma,PROBLEM
+1,366,380,right lower lid,PROBLEM
+1,408,443,Extremely large basal cell carcinoma,PROBLEM
+1,446,460,right lower lid,PROBLEM
+1,483,490,Excision,TREATMENT
+1,495,520,large basal cell carcinoma,PROBLEM
+1,563,603,dorsal conjunctival flap in the upper lid,TREATMENT
+1,609,639,a large preauricular skin graft,TREATMENT
+1,742,750,Xylocaine,TREATMENT
+1,760,770,epinephrine,TREATMENT
+1,895,915,A frontal nerve block,PROBLEM
+1,956,975,The anesthetic agent,TREATMENT
+1,1048,1060,a donor graft,TREATMENT
+1,1066,1091,the right lower lid defect,PROBLEM
+1,1164,1186,a #15 Bard-Parker blade,TREATMENT
+1,1205,1249,an incision at the nasal and temporal margins,PROBLEM
+1,1254,1263,the lesion,PROBLEM
+1,1266,1277,The incision,PROBLEM
+1,1313,1329,a Steven scissors,TREATMENT
+1,1376,1393,excised inferiorly,TREATMENT
+1,1396,1407,The specimen,TEST
+1,1451,1464,frozen section,TEST
+1,1467,1474,Bleeding,PROBLEM
+1,1496,1514,a wet-field cautery,TREATMENT
+1,1558,1568,an incision,PROBLEM
+1,1610,1630,the Bard-Parker blade,TREATMENT
+1,1671,1682,The incision,PROBLEM
+1,1713,1727,Steven scissors,TREATMENT
+1,1847,1878,a large dorsal conjunctival flap,TREATMENT
+1,1955,1993,the defect in the lower lid and sutured,PROBLEM
+1,2000,2038,multiple interrupted 6-0 Vicryl sutures,TREATMENT
+1,2077,2098,The defect in the skin,PROBLEM
+1,2117,2155,an appropriate large preauricular graft,TREATMENT
+1,2205,2214,The defect,PROBLEM
+1,2232,2262,interrupted 5-0 Prolene sutures,TREATMENT
+1,2269,2290,the preauricular graft,TREATMENT
+1,2318,2354,multiple interrupted 6-0 silk sutures,TREATMENT
+1,2377,2385,the graft,TREATMENT
+1,2423,2430,incision,PROBLEM
+1,2444,2456,the gray line,TREATMENT
+1,2463,2474,a Superblade,TREATMENT
+1,2505,2518,the skin graft,TREATMENT
+1,2589,2612,the razor blade incision,PROBLEM
+1,2615,2625,Cryotherapy,TREATMENT
+1,2696,2703,excision,TREATMENT
+1,2716,2731,positive margins,PROBLEM
+1,2748,2782,this an antibiotic steroid ointment,TREATMENT
+1,2802,2826,a light pressure dressing,TREATMENT
+1,2863,2875,the procedure,TREATMENT
+1,2964,2983,basal cell carcinoma,PROBLEM
+1,2986,2996,cryotherapy,TREATMENT
+1,2999,3013,steven scissors,TREATMENT
+1,3016,3045,"conjunctiva, conjunctival flap",TREATMENT
+1,3048,3066,frontal nerve block,PROBLEM
+1,3085,3190,"lower lid, orbicularis, skin graft, nasal and temporal margins, dorsal conjunctival flap, upper lid, basal",TREATMENT
+1,3193,3201,carcinoma,PROBLEM
+1,3218,3225,incision,PROBLEM
+2,68,73,Anemia,PROBLEM
+2,98,114,Refractory anemia,PROBLEM
+2,124,144,transfusion dependent,PROBLEM
+2,186,191,anemia,PROBLEM
+2,198,207,hemoglobin,TEST
+2,230,240,transfusion,TREATMENT
+2,292,308,Refractory anemia,PROBLEM
+2,318,338,transfusion dependent,PROBLEM
+2,367,385,a blood transfusion,TREATMENT
+2,488,495,diabetes,PROBLEM
+2,508,533,any comorbid complications,PROBLEM
+2,538,549,the diabetes,PROBLEM
+2,561,574,kidney disease,PROBLEM
+2,577,589,heart disease,PROBLEM
+2,592,597,stroke,PROBLEM
+2,600,610,vision loss,PROBLEM
+2,616,625,neuropathy,PROBLEM
+2,667,672,anemia,PROBLEM
+2,679,688,hemoglobin,TEST
+2,711,721,transfusion,TREATMENT
+2,770,777,bleeding,PROBLEM
+2,787,805,a blood transfusion,TREATMENT
+2,870,891,that blood transfusion,TREATMENT
+2,901,913,a transfusion,TREATMENT
+2,919,924,anemia,PROBLEM
+2,949,951,B12,TREATMENT
+2,954,962,oral iron,TREATMENT
+2,969,975,Procrit,TREATMENT
+2,1044,1052,treatment,TREATMENT
+2,1058,1067,his anemia,PROBLEM
+2,1080,1108,any constitutional complaints,PROBLEM
+2,1121,1127,fatigue,PROBLEM
+2,1130,1136,malaise,PROBLEM
+2,1143,1154,some dyspnea,PROBLEM
+2,1167,1176,adenopathy,PROBLEM
+2,1198,1203,fevers,PROBLEM
+2,1206,1217,night sweats,PROBLEM
+2,1220,1228,bone pain,PROBLEM
+2,1231,1234,rash,PROBLEM
+2,1237,1247,arthralgias,PROBLEM
+2,1253,1260,myalgias,PROBLEM
+2,1285,1292,Diabetes,PROBLEM
+2,1318,1330,Hernia repair,TREATMENT
+2,1354,1362,allergies,PROBLEM
+2,1410,1417,Coumadin,TREATMENT
+2,1420,1424,Lasix,TREATMENT
+2,1427,1435,metformin,TREATMENT
+2,1438,1447,folic acid,TREATMENT
+2,1450,1458,diltiazem,TREATMENT
+2,1461,1463,B12,TREATMENT
+2,1466,1473,Prevacid,TREATMENT
+2,1480,1485,Feosol,TREATMENT
+2,1640,1664,blood or cancer disorders,PROBLEM
+2,1756,1769,acute distress,PROBLEM
+2,1895,1908,Blood pressure,TEST
+2,1921,1925,pulse,TEST
+2,1934,1949,respiratory rate,TEST
+2,1962,1972,temperature,TEST
+2,2047,2077,mild arcus senilis in the right,PROBLEM
+2,2235,2268,jugular venous pressure distention,PROBLEM
+2,2283,2344,"adenopathy in the cervical, supraclavicular, or axillary areas",PROBLEM
+2,2411,2419,nontender,PROBLEM
+2,2435,2474,some fullness in the left upper quadrant,PROBLEM
+2,2554,2561,clubbing,PROBLEM
+2,2577,2586,some edema,PROBLEM
+2,2596,2603,cyanosis,PROBLEM
+2,2727,2743,refractory anemia,PROBLEM
+2,2755,2775,transfusion dependent,PROBLEM
+2,2787,2789,B12,TREATMENT
+2,2792,2795,iron,TREATMENT
+2,2798,2807,folic acid,TREATMENT
+2,2814,2820,Procrit,TREATMENT
+2,2855,2864,blood loss,PROBLEM
+2,2870,2904,a recent esophagogastroduodenoscopy,TEST
+2,2927,2940,His creatinine,TEST
+2,3000,3037,an underlying myelodysplastic syndrome,PROBLEM
+2,3042,3060,bone marrow failure,PROBLEM
+2,3063,3076,His creatinine,TEST
+2,3152,3161,his anemia,PROBLEM
+2,3250,3277,further serologic evaluation,TEST
+2,3284,3301,reticulocyte count,TEST
+2,3304,3316,serum protein,TEST
+2,3323,3337,electrophoresis,TEST
+2,3340,3342,LDH,TEST
+2,3345,3347,B12,TEST
+2,3350,3355,folate,TEST
+2,3358,3377,erythropoietin level,TEST
+2,3402,3425,a bone marrow aspiration,TREATMENT
+2,3431,3436,biopsy,TEST
+2,3456,3468,the procedure,TREATMENT
+2,3573,3601,usefulness of the bone marrow,TEST
+2,3631,3647,refractory anemia,PROBLEM
+2,3661,3685,therapeutic interventions,TREATMENT
+2,3752,3762,the studies,TEST
+2,3803,3830,an ultrasound of his abdomen,TEST
+2,3856,3877,fullness of the spleen,PROBLEM
+2,3927,3946,this hospitalization,TREATMENT
+2,4117,4131,electrophoresis,TEST
+2,4134,4136,ldh,TEST
+2,4139,4141,b12,TEST
+2,4144,4149,folate,TEST
+2,4152,4171,erythropoietin level,TEST
+2,4174,4191,reticulocyte count,TEST
+2,4194,4206,serum protein,TEST
+2,4209,4225,blood transfusion,TEST
+2,4228,4238,bone marrow,PROBLEM
+2,4241,4257,refractory anemia,PROBLEM
+2,4260,4265,anemia,PROBLEM
+2,4268,4275,myalgias,PROBLEM
+2,4278,4283,marrow,PROBLEM
+2,4286,4289,bone,PROBLEM
+3,119,155,Intensity-modulated radiation therapy,TREATMENT
+3,177,186,procedures,TREATMENT
+3,231,244,immobilization,TREATMENT
+3,261,293,customized immobilization devices,TREATMENT
+3,334,408,"INTENSITY-MODULATED RADIATION THERAPY
+Intensity-modulated radiation therapy",TREATMENT
+3,430,439,procedures,TREATMENT
+3,484,497,immobilization,TREATMENT
+3,514,546,customized immobilization devices,TREATMENT
+3,549,561,The treatment,TREATMENT
+3,771,789,Sequential CT scans,TEST
+3,856,873,Extensive analysis,TEST
+3,959,980,occult tumor extension,PROBLEM
+3,1106,1132,Associated dose constraints,TREATMENT
+3,1146,1162,Inverse treatment,TREATMENT
+3,1333,1358,Multiple beam arrangements,TREATMENT
+3,1398,1418,optimal dose delivery,TREATMENT
+3,1455,1473,controlling disease,PROBLEM
+3,1562,1585,associated complications,PROBLEM
+3,1690,1698,treatment,TREATMENT
+3,1710,1741,extensive physician intervention,TREATMENT
+3,1744,1753,monitoring,TEST
+3,1903,1923,the special procedure,TREATMENT
+3,1992,2017,multiple beam arrangements,TREATMENT
+3,2020,2056,intensity modulated radiation therapy,TREATMENT
+4,97,116,Left neck dissection,PROBLEM
+4,119,145,Metastatic papillary cancer,PROBLEM
+4,148,156,left neck,PROBLEM
+4,175,188,thyroid cancer,PROBLEM
+4,191,209,papillary cell type,PROBLEM
+4,225,245,a total thyroidectomy,TREATMENT
+4,256,285,subsequently recurrent disease,PROBLEM
+4,304,328,a paratracheal dissection,TREATMENT
+4,393,419,Metastatic papillary cancer,PROBLEM
+4,458,484,Metastatic papillary cancer,PROBLEM
+4,519,538,Left neck dissection,TREATMENT
+4,638,651,thyroid cancer,PROBLEM
+4,654,672,papillary cell type,PROBLEM
+4,688,708,a total thyroidectomy,TREATMENT
+4,719,748,subsequently recurrent disease,PROBLEM
+4,767,791,a paratracheal dissection,TREATMENT
+4,817,843,lesion in the left mid neck,PROBLEM
+4,875,884,ultrasound,TEST
+4,912,927,recurrent cancer,PROBLEM
+4,930,949,Left neck dissection,TREATMENT
+4,1072,1111,adequate general endotracheal anesthesia,TREATMENT
+4,1158,1172,A shoulder roll,TREATMENT
+4,1298,1305,Betadine,TREATMENT
+4,1311,1316,draped,TREATMENT
+4,1340,1367,A hockey stick skin incision,PROBLEM
+4,1394,1417,a previous incision line,TREATMENT
+4,1509,1528,Bovie electrocautery,TREATMENT
+4,1543,1582,Subplatysmal superior and inferior flaps,TREATMENT
+4,1597,1610,The dissection,TREATMENT
+4,1616,1643,left lateral neck dissection,PROBLEM
+4,1959,1978,the splenius capitis,PROBLEM
+4,1984,2011,anterior and middle scalenes,PROBLEM
+4,2225,2238,the dissection,PROBLEM
+4,2457,2474,Copious irrigation,TREATMENT
+4,2479,2491,the wound bed,PROBLEM
+4,2503,2523,identifiable bleeding,PROBLEM
+4,2547,2559,the procedure,TREATMENT
+4,2573,2600,two obviously positive nodes,PROBLEM
+4,2605,2624,this neck dissection,PROBLEM
+4,2668,2699,the previous tracheal dissection,PROBLEM
+4,2742,2770,A #10 flat fluted Blake drain,TREATMENT
+4,2791,2814,a separate stab incision,PROBLEM
+4,2852,2870,a 2-0 silk ligature,TREATMENT
+4,2873,2881,The wound,PROBLEM
+4,2910,2921,a 3-0 Vicryl,TREATMENT
+4,2926,2938,a buried knot,TREATMENT
+4,3017,3023,staples,TREATMENT
+4,3026,3060,A fluff and Kling pressure dressing,TREATMENT
+4,3199,3226,intraoperative complications,PROBLEM
+4,3262,3288,metastatic papillary cancer,PROBLEM
+4,3291,3303,thyroidectomy,TREATMENT
+4,3306,3319,thyroid cancer,PROBLEM
+4,3322,3340,papillary cell type,PROBLEM
+4,3343,3370,"dissection, neck, metastatic",PROBLEM
+4,3373,3395,"paratracheal, papillary",PROBLEM
+4,3398,3403,cancer,PROBLEM
+5,99,115,HDR Brachytherapy,TREATMENT
+5,173,214,The intracavitary brachytherapy applicator,TREATMENT
+5,287,302,Simulation films,TEST
+5,420,425,the CT,TEST
+5,515,531,a single catheter,TREATMENT
+5,640,663,the intracavitary device,TREATMENT
+5,678,705,Catheter length measurements,TEST
+5,731,766,measurements of the probe dimensions,TEST
+5,802,815,The applicator,TREATMENT
+5,833,859,the HDR after-loader device,TREATMENT
+5,862,871,The device,TREATMENT
+5,926,942,the brachytherapy,TREATMENT
+5,971,980,difficulty,PROBLEM
+5,985,996,complication,PROBLEM
+5,999,1015,The brachytherapy,TREATMENT
+5,1058,1074,the brachytherapy,TREATMENT
+5,1088,1097,the device,TREATMENT
+5,1100,1118,Radiation screening,TEST
+5,1139,1163,the Geiger-Muller counter,TREATMENT
+5,1189,1215,the brachytherapy procedure,TREATMENT
+5,1296,1308,the procedure,TREATMENT
+5,1311,1334,the intracavitary device,TREATMENT
+5,1356,1365,difficulty,PROBLEM
+5,1390,1406,apparent distress,PROBLEM
+5,1466,1478,geiger-muller,TREATMENT
+5,1481,1489,treatment,TREATMENT
+5,1501,1517,hdr brachytherapy,TREATMENT
+5,1520,1532,intracavitary,TREATMENT
+5,1535,1544,applicator,TREATMENT
+5,1547,1559,brachytherapy,TREATMENT
+6,68,73,Biopsy,TEST
+6,110,126,Excisional biopsy,TEST
+6,131,155,right cervical lymph node,PROBLEM
+6,220,243,Cervical lymphadenopathy,PROBLEM
+6,271,294,Cervical lymphadenopathy,PROBLEM
+6,308,353,Excisional biopsy of right cervical lymph node,TEST
+6,368,398,General endotracheal anesthesia,TREATMENT
+6,411,435,Right cervical lymph node,PROBLEM
+6,438,440,EBL,TEST
+6,481,507,Enlarged level 2 lymph node,PROBLEM
+6,549,570,pathologic examination,TEST
+6,743,777,persistent cervical lymphadenopathy,PROBLEM
+6,803,809,painful,PROBLEM
+6,814,835,palpation on the right,TEST
+6,849,865,multiple CT scans,TEST
+6,878,883,an FNA,TEST
+6,943,949,surgery,TREATMENT
+6,1040,1092,an excisional biopsy of the right cervical lymph node,TEST
+6,1221,1251,general endotracheal anesthesia,TREATMENT
+6,1272,1289,prepped and draped,TREATMENT
+6,1331,1339,palpation,TEST
+6,1351,1389,an enlarged level 2 cervical lymph node,PROBLEM
+6,1392,1417,A 3-cm horizontal incision,PROBLEM
+6,1450,1459,Dissection,TREATMENT
+6,1531,1553,The enlarged lymph node,PROBLEM
+6,1657,1677,touch prep evaluation,TEST
+6,1711,1740,any other enlarged lymph nodes,PROBLEM
+6,1769,1778,hemostasis,TREATMENT
+6,1798,1811,electrocautery,TREATMENT
+6,1814,1841,A quarter-inch Penrose drain,TREATMENT
+6,1857,1865,the wound,PROBLEM
+6,1868,1876,The wound,PROBLEM
+6,1929,1942,Vicryl sutures,TREATMENT
+6,1948,1961,a deep closure,TREATMENT
+6,1975,2015,a running 4-0 Prolene subcuticular suture,TREATMENT
+6,2018,2025,Mastisol,TREATMENT
+6,2031,2041,Steri-Strip,TREATMENT
+6,2060,2071,the incision,PROBLEM
+6,2078,2092,sterile bandage,TREATMENT
+6,2129,2142,this procedure,TREATMENT
+6,2175,2187,complications,PROBLEM
+6,2306,2322,the Penrose drain,TREATMENT
+6,2366,2380,lymphadenopathy,PROBLEM
+6,2383,2399,excisional biopsy,TEST
+6,2402,2404,fna,TEST
+6,2407,2414,mastisol,TREATMENT
+6,2417,2429,penrose drain,TREATMENT
+6,2432,2460,"cervical, cervical lymph node",TREATMENT
+6,2463,2485,endotracheal anesthesia,TREATMENT
+6,2488,2497,lymph node,TREATMENT
+6,2500,2534,"sternocleidomastoid, cervical lymph",TREATMENT
+6,2537,2541,lymph,TREATMENT
+6,2544,2553,anesthesia,TREATMENT
+7,68,92,Metastatic Ovarian Cancer,PROBLEM
+7,156,190,recurrent metastatic ovarian cancer,PROBLEM
+7,256,280,Metastatic ovarian cancer,PROBLEM
+7,404,420,renal cell cancer,PROBLEM
+7,423,435,breast cancer,PROBLEM
+7,449,462,ovarian cancer,PROBLEM
+7,566,575,metastatic,PROBLEM
+7,667,677,gemcitabine,TREATMENT
+7,683,693,carboplatin,TREATMENT
+7,842,856,her white count,TEST
+7,871,884,the hemoglobin,TEST
+7,895,904,hematocrit,TEST
+7,918,926,platelets,TEST
+7,939,945,Her ANC,TEST
+7,975,996,prophylactic Augmentin,TREATMENT
+7,1009,1022,Neupogen shots,TREATMENT
+7,1053,1093,recurrent pleural effusions with the knee,PROBLEM
+7,1099,1111,thoracentesis,TREATMENT
+7,1260,1279,more short of breath,PROBLEM
+7,1330,1339,very tired,PROBLEM
+7,1448,1470,her shortness of breath,PROBLEM
+7,1524,1544,her pleural effusions,PROBLEM
+7,1599,1609,chest x-ray,TEST
+7,1629,1679,a new right-sided pulmonic consolidative infiltrate,PROBLEM
+7,1723,1731,pneumonia,PROBLEM
+7,1762,1767,fevers,PROBLEM
+7,1772,1777,chills,PROBLEM
+7,1812,1821,chest pain,PROBLEM
+7,1840,1853,the chest pain,PROBLEM
+7,1904,1909,aching,PROBLEM
+7,1949,1967,shortness of breath,PROBLEM
+7,1973,1977,cough,PROBLEM
+7,1993,1997,cough,PROBLEM
+7,2053,2063,examination,TEST
+7,2066,2080,her vital signs,TEST
+7,2119,2140,5 liters nasal cannula,TREATMENT
+7,2154,2171,oxygen saturations,TEST
+7,2174,2179,An EKG,TEST
+7,2209,2220,sinus rhythm,PROBLEM
+7,2246,2252,Q waves,PROBLEM
+7,2257,2278,other ischemic changes,PROBLEM
+7,2281,2295,The chest x-ray,TEST
+7,2320,2348,a right lower lobe infiltrate,PROBLEM
+7,2351,2360,A V/Q scan,TEST
+7,2385,2432,a small mismatched defect in the left upper lobe,PROBLEM
+7,2438,2474,a mass defect in the right upper lobe,PROBLEM
+7,2538,2557,a pulmonary embolism,PROBLEM
+7,2572,2609,an ultrasound of the lower extremities,TEST
+7,2641,2643,DVT,PROBLEM
+7,2705,2722,pulmonary embolism,PROBLEM
+7,2747,2753,Lovenox,TREATMENT
+7,2783,2791,pneumonia,PROBLEM
+7,2816,2820,Zosyn,TREATMENT
+7,2833,2842,vancomycin,TREATMENT
+7,3008,3021,Ovarian cancer,PROBLEM
+7,3090,3107,surgical resection,TREATMENT
+7,3119,3121,TAH,TREATMENT
+7,3127,3129,BSO,TREATMENT
+7,3186,3203,metastatic disease,PROBLEM
+7,3220,3232,breast cancer,PROBLEM
+7,3262,3281,bilateral mastectomy,TREATMENT
+7,3370,3386,recurrent disease,PROBLEM
+7,3392,3411,Renal cell carcinoma,PROBLEM
+7,3434,3444,nephrectomy,TREATMENT
+7,3450,3461,Hypertension,PROBLEM
+7,3467,3482,Anxiety disorder,PROBLEM
+7,3488,3499,Chronic pain,PROBLEM
+7,3506,3515,neuropathy,PROBLEM
+7,3530,3541,chemotherapy,TREATMENT
+7,3548,3570,breast cancer treatment,TREATMENT
+7,3633,3654,multiple thoracentesis,TREATMENT
+7,3679,3700,Bilateral mastectomies,TREATMENT
+7,3706,3733,Multiple abdominal surgeries,TREATMENT
+7,3739,3753,Cholecystectomy,TREATMENT
+7,3759,3785,Remote right ankle fracture,PROBLEM
+7,3802,3821,known drug allergies,PROBLEM
+7,3849,3856,Atenolol,TREATMENT
+7,3873,3878,Ativan,TREATMENT
+7,3890,3898,Clonidine,TREATMENT
+7,3919,3927,Compazine,TREATMENT
+7,3939,3946,Dilaudid,TREATMENT
+7,3958,3967,Gabapentin,TREATMENT
+7,3991,3995,K-Dur,TREATMENT
+7,4019,4023,Lasix,TREATMENT
+7,4048,4054,Norvasc,TREATMENT
+7,4072,4077,Zofran,TREATMENT
+7,4435,4445,lung cancer,PROBLEM
+7,4529,4537,any fever,PROBLEM
+7,4540,4545,chills,PROBLEM
+7,4548,4559,night sweats,PROBLEM
+7,4574,4580,fatigue,PROBLEM
+7,4586,4596,weight loss,PROBLEM
+7,4657,4665,headaches,PROBLEM
+7,4675,4692,"jaw, or teeth pain",PROBLEM
+7,4695,4710,change in vision,PROBLEM
+7,4731,4745,loss of hearing,PROBLEM
+7,4750,4768,ringing in her ears,PROBLEM
+7,4803,4825,some increasing dyspnea,PROBLEM
+7,4828,4846,shortness of breath,PROBLEM
+7,4863,4867,cough,PROBLEM
+7,4877,4893,sputum production,PROBLEM
+7,4898,4907,hemoptysis,PROBLEM
+7,4910,4912,CVS,TEST
+7,4943,4953,chest pains,PROBLEM
+7,4991,5029,"PND, orthopnea lower extremity swelling",PROBLEM
+7,5034,5045,palpitations,PROBLEM
+7,5055,5063,heartburn,PROBLEM
+7,5066,5076,odynophagia,PROBLEM
+7,5079,5087,dysphagia,PROBLEM
+7,5090,5095,nausea,PROBLEM
+7,5098,5105,vomiting,PROBLEM
+7,5108,5115,diarrhea,PROBLEM
+7,5118,5129,constipation,PROBLEM
+7,5132,5149,blood in her stool,PROBLEM
+7,5156,5173,black tarry stools,PROBLEM
+7,5183,5189,dysuria,PROBLEM
+7,5192,5213,burning with urination,PROBLEM
+7,5216,5228,kidney stones,PROBLEM
+7,5235,5252,difficulty voiding,PROBLEM
+7,5275,5287,new back pain,PROBLEM
+7,5290,5297,hip pain,PROBLEM
+7,5300,5307,rib pain,PROBLEM
+7,5310,5323,swollen joints,PROBLEM
+7,5337,5340,gout,PROBLEM
+7,5346,5360,muscle weakness,PROBLEM
+7,5388,5401,diffusely weak,PROBLEM
+7,5410,5449,lateralizing loss of strength or feeling,PROBLEM
+7,5460,5488,some chronic neuropathic pain,PROBLEM
+7,5494,5501,numbness,PROBLEM
+7,5558,5565,fatigued,PROBLEM
+7,5571,5575,tired,PROBLEM
+7,5747,5755,Her T-max,TEST
+7,5766,5774,Her pulse,TEST
+7,5783,5798,her respirations,TEST
+7,5811,5824,blood pressure,TEST
+7,5843,5859,Somewhat fatigued,PROBLEM
+7,5881,5894,acute distress,PROBLEM
+7,5904,5908,NC/AT,PROBLEM
+7,5911,5927,Sclerae anicteric,PROBLEM
+7,5977,5988,any erythema,PROBLEM
+7,5991,5997,exudate,PROBLEM
+7,6003,6011,discharge,PROBLEM
+7,6028,6036,Nontender,PROBLEM
+7,6042,6053,elevated JVP,PROBLEM
+7,6059,6069,thyromegaly,PROBLEM
+7,6075,6089,thyroid nodules,PROBLEM
+7,6108,6119,auscultation,TEST
+7,6125,6134,percussion,TEST
+7,6153,6188,decreased breath sounds on the right,PROBLEM
+7,6224,6230,murmurs,PROBLEM
+7,6233,6239,gallops,PROBLEM
+7,6244,6247,rubs,PROBLEM
+7,6271,6272,S3,PROBLEM
+7,6277,6278,S4,PROBLEM
+7,6296,6304,nontender,PROBLEM
+7,6307,6318,nondistended,PROBLEM
+7,6350,6357,guarding,PROBLEM
+7,6362,6368,rebound,PROBLEM
+7,6374,6391,hepatosplenomegaly,PROBLEM
+7,6397,6402,masses,PROBLEM
+7,6422,6448,Generalized muscle weakness,PROBLEM
+7,6457,6470,joint swelling,PROBLEM
+7,6475,6493,other abnormalities,PROBLEM
+7,6505,6510,rashes,PROBLEM
+7,6513,6520,bruising,PROBLEM
+7,6526,6533,petechia,PROBLEM
+7,6539,6556,non-healing wounds,PROBLEM
+7,6561,6571,ulcerations,PROBLEM
+7,6638,6641,exam,TEST
+7,6703,6714,sensory loss,PROBLEM
+7,6761,6786,Her white blood cell count,TEST
+7,6796,6805,hemoglobin,TEST
+7,6813,6822,hematocrit,TEST
+7,6835,6843,platelets,TEST
+7,6853,6868,Her differential,TEST
+7,6876,6892,2% metamyelocytes,PROBLEM
+7,6899,6909,neutrophils,TEST
+7,6916,6920,bands,TEST
+7,6926,6936,lymphocytes,TEST
+7,6939,6950,5% monocytes,TEST
+7,6957,6970,1% eosinophils,TEST
+7,6973,6982,Her sodium,TEST
+7,6992,7000,potassium,TEST
+7,7007,7014,chloride,TEST
+7,7021,7023,CO2,TEST
+7,7032,7034,BUN,TEST
+7,7040,7049,creatinine,TEST
+7,7056,7062,glucose,TEST
+7,7073,7079,calcium,TEST
+7,7086,7092,Her INR,TEST
+7,7102,7103,PT,TEST
+7,7116,7118,PTT,TEST
+7,7124,7133,Urinalysis,TEST
+7,7148,7154,nitrite,PROBLEM
+7,7160,7177,leukocyte esterase,TEST
+7,7184,7208,moderate epithelial cells,PROBLEM
+7,7211,7218,bacteria,PROBLEM
+7,7221,7237,white blood cells,TEST
+7,7244,7248,yeast,PROBLEM
+7,7264,7276,contamination,PROBLEM
+7,7279,7291,Her troponins,TEST
+7,7332,7351,CT scan of her chest,TEST
+7,7371,7397,bilateral pleural effusions,PROBLEM
+7,7487,7503,the prior CT scan,TEST
+7,7538,7567,some consolidative atelectasis,PROBLEM
+7,7602,7644,some peripheral interstitial opacifications,PROBLEM
+7,7735,7745,pneumonitis,PROBLEM
+7,7758,7805,small peripheral nodular densities in both lungs,PROBLEM
+7,7829,7838,prior scan,TEST
+7,7850,7880,an enlarged right adrenal gland,PROBLEM
+7,7969,8003,recurrent metastatic ovarian cancer,PROBLEM
+7,8067,8085,shortness of breath,PROBLEM
+7,8110,8118,pneumonia,PROBLEM
+7,8140,8143,a PE,PROBLEM
+7,8186,8190,a CTA,TEST
+7,8197,8215,her kidney function,TEST
+7,8264,8289,broad-spectrum antibiotics,TREATMENT
+7,8295,8301,Lovenox,TREATMENT
+7,8360,8380,her pleural effusions,PROBLEM
+7,8439,8460,her worsening symptoms,PROBLEM
+7,8463,8478,Her blood counts,TEST
+7,8509,8520,chemotherapy,TREATMENT
+7,8547,8559,her platelets,TEST
+7,8651,8669,chemotherapy effect,TREATMENT
+7,8702,8720,consumptive process,PROBLEM
+7,8730,8732,DIC,PROBLEM
+7,8749,8758,infections,PROBLEM
+7,8763,8779,medication effect,PROBLEM
+7,8804,8819,her blood counts,TEST
+7,8936,8944,full code,TREATMENT
+7,9267,9283,renal cell cancer,PROBLEM
+7,9286,9298,breast cancer,PROBLEM
+7,9301,9325,metastatic ovarian cancer,PROBLEM
+7,9328,9346,shortness of breath,PROBLEM
+7,9349,9365,pleural effusions,PROBLEM
+7,9368,9373,cancer,PROBLEM
+7,9376,9393,"ovarian, recurrent",PROBLEM
+8,155,189,Left breast adenocarcinoma stage T3,PROBLEM
+8,199,208,stage IIIA,PROBLEM
+8,260,285,Left breast adenocarcinoma,PROBLEM
+8,304,313,stage IIIA,PROBLEM
+8,357,372,stage IV disease,PROBLEM
+8,379,397,metastatic deposits,PROBLEM
+8,403,437,recurrence involving the chest wall,PROBLEM
+8,443,469,lower left neck lymph nodes,PROBLEM
+8,495,513,Glucosamine complex,PROBLEM
+8,519,527,Toprol XL,TREATMENT
+8,533,542,Alprazolam,TREATMENT
+8,547,565,Hydrochlorothiazide,TREATMENT
+8,571,577,Dyazide,TREATMENT
+8,608,627,her some carboplatin,TREATMENT
+8,633,637,Taxol,TREATMENT
+8,691,716,electron beam radiotherapy,TREATMENT
+8,824,849,external beam radiotherapy,TREATMENT
+8,947,956,Her weight,TEST
+8,1014,1026,some coughing,PROBLEM
+8,1032,1038,fatigue,PROBLEM
+8,1071,1090,physical examination,TEST
+8,1101,1115,lymphadenopathy,PROBLEM
+8,1180,1209,other cervical lymphadenopathy,PROBLEM
+8,1214,1244,supraclavicular lymphadenopathy,PROBLEM
+8,1299,1327,Examination of the chest wall,TEST
+8,1337,1350,a small lesion,PROBLEM
+8,1358,1382,the chest wall recurrence,PROBLEM
+8,1388,1395,resected,TREATMENT
+8,1401,1405,lumps,PROBLEM
+8,1408,1412,bumps,PROBLEM
+8,1429,1435,disease,PROBLEM
+8,1509,1520,hepatomegaly,PROBLEM
+8,1526,1535,tenderness,PROBLEM
+8,1540,1553,deep palpation,TEST
+8,1595,1606,chemotherapy,TREATMENT
+8,1742,1767,her radiotherapy treatment,TREATMENT
+8,1932,1942,carboplatin,TREATMENT
+8,1945,1949,taxol,TREATMENT
+8,1952,1968,radiation therapy,TREATMENT
+8,1971,1991,breast adenocarcinoma,PROBLEM
+8,1994,2010,beam radiotherapy,TREATMENT
+8,2013,2022,chest wall,TREATMENT
+8,2025,2036,radiotherapy,TREATMENT
+8,2039,2053,supraclavicular,TREATMENT
+8,2056,2070,lymphadenopathy,PROBLEM
+8,2073,2086,adenocarcinoma,PROBLEM
+8,2089,2094,breast,PROBLEM
+9,110,151,Left axillary lymph node excisional biopsy,TEST
+9,154,177,Left axillary adenopathy,PROBLEM
+9,242,265,Left axillary adenopathy,PROBLEM
+9,293,316,Left axillary adenopathy,PROBLEM
+9,330,371,Left axillary lymph node excisional biopsy,TEST
+9,386,388,LMA,TREATMENT
+9,453,479,breast conservation therapy,TREATMENT
+9,486,494,radiation,TREATMENT
+9,520,543,her CMF adjuvant therapy,TREATMENT
+9,562,622,a triple-negative infiltrating ductal carcinoma of the breast,PROBLEM
+9,841,864,left axillary adenopathy,PROBLEM
+9,901,910,her lesion,PROBLEM
+9,941,955,this lymph node,TREATMENT
+9,966,978,The procedure,TREATMENT
+9,1015,1037,potential complications,PROBLEM
+9,1061,1067,therapy,TREATMENT
+9,1118,1124,surgery,TREATMENT
+9,1222,1243,appropriate anesthesia,TREATMENT
+9,1246,1282,"her left chest, neck, axilla, and arm",TREATMENT
+9,1302,1318,Betadine solution,TREATMENT
+9,1350,1360,An incision,PROBLEM
+9,1404,1452,sharp dissection through the clavipectoral fascia,TREATMENT
+9,1517,1549,a figure-of-eight 2-0 silk suture,TREATMENT
+9,1558,1573,sharp dissection,TREATMENT
+9,1591,1598,hemoclip,TREATMENT
+9,1644,1650,excised,TREATMENT
+9,1669,1677,The wound,PROBLEM
+9,1728,1736,The wound,PROBLEM
+9,1875,1911,axillary lymph node excisional biopsy,TEST
+9,1914,1929,sharp dissection,TREATMENT
+9,1932,1948,excisional biopsy,TEST
+9,1951,1982,"lymph node, axillary, excisional",TEST
+9,1985,1990,biopsy,TEST
